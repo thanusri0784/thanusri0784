@@ -16,11 +16,19 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-Thanusri Gompa
-AIML & Data Analytics Enthusiast | B.Tech CSE Undergraduate
+
+# Thanusri Gompa
+
+### AIML & Data Analytics Enthusiast | B.Tech CSE Undergraduate
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=550&lines=Data+Analytics+%7C+Machine+Learning+%7C+AI;Turning+Data+into+Meaningful+Insights" alt="Typing SVG" />
 
-Portfolio LinkedIn Email Resume
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thanusrigompa.bolt.host)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanusri-gompa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanugompa@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1Hf9Cie5fRILvqmbdK4Jgfm1tYac4E7mW?usp=sharing)
+
+</div>
 
 </div> <br>
 📌 About Me
