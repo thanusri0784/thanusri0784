@@ -31,14 +31,13 @@ Here are some ideas to get you started:
 </div>
 
 </div> <br>
-📌 About Me
+## 📌 About Me
 
-Computer Science Engineering student with a strong interest in Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy transforming raw data into meaningful insights and building practical, intelligent solutions to real-world problems.
+Computer Science Engineering student specializing in Data Analytics, Machine Learning, and Artificial Intelligence. Experienced in transforming raw data into actionable insights through Python, SQL, and visualization tools like Tableau and Power BI.
 
-🎓 B.Tech in Computer Science Engineering (Expected 2028) — Avanthi Engineering and Technology, Vizianagaram, Andhra Pradesh — CGPA: 8.35/10
-🎯 Career Goal: Building a career in Data Analytics and AI/ML, applying data and technology to solve real-world problems
-🌱 Interests: Data Analytics · Machine Learning · Natural Language Processing · Data Visualization
-🤝 Open to: Data Analytics / AI-ML internships, freelance work, research collaborations, and open-source contributions
+- 🎓 B.Tech in Computer Science Engineering (Expected 2028), CGPA: 8.35/10
+- 🎯 Seeking opportunities in Data Analytics and AI/ML to build data-driven solutions
+- 🤝 Open to internships, freelance work, and collaborative projects
 <br>
 ## 🛠️ Technical Skills
 
