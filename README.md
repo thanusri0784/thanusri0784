@@ -76,7 +76,3 @@ Advanced SQL & Data Engineering fundamentals
 🤝 Let's Connect
 <p align="center"> <a href="https://www.linkedin.com/in/thanusri-gompa" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:thanugompa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/thanusri0784" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p> <p align="center">💬 Open to Data Analytics / AI-ML internships, freelance work, research collaborations, and open-source contributions!</p> <p align="center"><i>Thanks for stopping by! ⭐ from a repo you liked would mean a lot.</i></p>
 Content
-
-PDF
-
-PDF
