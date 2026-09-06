@@ -117,31 +117,33 @@ All projects, dashboards, and case studies in one place — live and continuousl
 Live Site: thanusrigompa.bolt.host GitHub: data-analytics-portfolio
 
 </td> </tr> </table> <br>
-💼 Experience
-Role	Organization	Duration
-AI/ML Intern	ShadowFox	July 2026
-AI/ML Intern	3Skill	June – July 2026
-Data Analyst Intern	Future Interns	June – July 2026
-Data Analytics with AI Intern	AICTE – IBM SkillsBuild – BharatCares	Completed August 2026
-<br>
-📊 GitHub Stats
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=thanusri0784&show_icons=true&theme=default&hide_border=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanusri0784&layout=compact&theme=default&hide_border=true" /> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanusri0784&theme=default&hide_border=true" alt="GitHub Streak" /> </div> <br>
-🏆 Achievements & Certifications
-🥇 1st Prize – PPT Presentation, Inter-college Presentation Competition
-IBM SkillBuild — Data Analytics With AI (BharatCares, ACIET)
-Data Analytics Job Simulation — Deloitte (Forage)
-Generative AI Job Simulation — BBC (Forage)
-Career Essentials in Data Analysis — Microsoft & LinkedIn
-<br>
-📚 Currently Learning
-<!-- Update this list anytime -->
-Advanced Deep Learning & Neural Networks
-Generative AI applications
-Advanced SQL & Data Engineering fundamentals
-<br>
-🤝 Connect With Me
+## 💼 Experience
+
+| Role | Organization | Duration |
+|---|---|---|
+| AI/ML Intern | ShadowFox | July 2026 |
+| AI/ML Intern | 3Skill | June – July 2026 |
+| Data Analyst Intern | Future Interns | June – July 2026 |
+| Data Analytics with AI Intern | AICTE – IBM SkillsBuild – BharatCares | Completed August 2026 |
+
+## 🏆 Achievements
+
+- 🥇 1st Prize – PPT Presentation, Inter-college Presentation Competition
+
+## 📜 Certifications
+
+- IBM SkillBuild — Data Analytics With AI (BharatCares, ACIET)
+- Data Analytics Job Simulation — Deloitte (Forage)
+- Generative AI Job Simulation — BBC (Forage)
+- Career Essentials in Data Analysis — Microsoft & LinkedIn
+</div>
+## 🤝 Connect With Me
+
 <div align="center">
 
-Portfolio LinkedIn Email GitHub
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://thanusrigompa.bolt.host)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanusri-gompa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanugompa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thanusri0784)
 
 </div>
